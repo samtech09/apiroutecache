@@ -3,9 +3,10 @@ package apiroutecache
 import (
 	"fmt"
 	"log"
-	"mahendras/common/apiroutecache/models"
 	"reflect"
 	"strconv"
+
+	"github.com/samtech09/apiroutecache/models"
 
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"

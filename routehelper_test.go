@@ -2,8 +2,9 @@ package apiroutecache
 
 import (
 	"fmt"
-	"mahendras/common/apiroutecache/models"
 	"testing"
+
+	"github.com/samtech09/apiroutecache/models"
 )
 
 var ses *MongoSession
